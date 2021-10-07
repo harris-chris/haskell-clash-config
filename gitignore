@@ -22,6 +22,8 @@ cabal-tests.log
 /Cabal/Setup
 /Cabal/source-file-list
 
+/dist-newstyle/
+
 /cabal-install/dist/
 /cabal-install/Setup
 /cabal-install/source-file-list
